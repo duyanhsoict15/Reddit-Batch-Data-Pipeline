@@ -1,0 +1,133 @@
+id,title,selftext,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1g9rqus,I passed the Cloud Practitioner exam,"I just passed my cloud practitioner exam today and got 840/1000. 
+
+Considering that I come from a tech background, the cloud system was new to me, as I'm entirely on Python. 
+
+  
+I watched Stéphane Maarek tutorials on udemy twice to fully understand the concept. Following with Stephanes  6 practice exams as well. 
+
+I did read here somewhere, where someone said the exam is easier than the practice exams, and I agree. However, these practice exams were vital and played a significant role in me clearing the exam (highly recommend if you are struggling with the concept). 
+
+In my first few tries of practice exams, I scored 40%–60%. Although, by the end, I had attempted the exams 3-4 times each and was scoring 75%-92%
+
+There were about 10-20 questions that were nearly identical to the practice exam.
+
+It took me around 2.5 weeks of study time. However, I do have a full-time job and am studying for my CFA level 1 along with it. I could only afford to give 10–15 hours a week. (have no social life). 
+
+Looking forward to SAA. Would appreciate it if someone could point out resources for the SAA.",38,19,Earlybake333,2024-10-22 20:09:12,https://www.reddit.com/r/AWSCertifications/comments/1g9rqus/i_passed_the_cloud_practitioner_exam/,False,False,False,False
+1ga08h1,AWS Certified Solutions Architect - Associate (SAA-C03) - PASS!,"https://preview.redd.it/p9peuy2s5fwd1.jpg?width=932&format=pjpg&auto=webp&s=b75e62015297198b405137adc5bc464812a57803
+
+A little background, I'm in Cyber Security and decided to pivot to more of a cloud space, with the hopes of eventually landing a cloud security role. Took the Cloud Practitioner 2 month ago. It was pretty easy and finished the test within 30 minutes. 
+
+Next up was the SAA-C03. Definitely a step up from the Practitioner. Instead of just knowing the service you need to know their limitations, how they interact with each other, which is the best to implement in a given scenario. 
+
+  
+I used the typical combo of Stephane Maarek's video course and Tutorial Dojo's quiz questions. TD's questions are an absolute must, it emulates the questions very well. Although they are a little wordy compared to the actual test. 
+
+Scored 50%-70% on my first attempts and 80%-95% on my subsequent attempts. Like others have said anything you get wrong in TD, you should review and understand why its wrong/right. I felt TD's quiz's were only slightly harder than the real thing. 
+
+Also what really helped me was utilizing ChatGPT to help explain any concepts I had trouble in. For example I'd ask it to tell me the difference between Aurora Endpoints, and the explanation was much easier for me to understand. 
+
+Last tip I can give is to read the question and answers more than once. The question will usually throw a keyword for the answer it wants. Like HIGHEST. LEAST, MOST, etc.
+
+
+
+Now gonna take a break and gonna go for the AWS Security Specialty next! Good luck all :)",23,7,BloodManDan,2024-10-23 02:45:51,https://www.reddit.com/r/AWSCertifications/comments/1ga08h1/aws_certified_solutions_architect_associate/,False,False,False,False
+1ga6o6c,Passed AWS Solution Architect Associate - SAA-C03,"Hello Community,
+
+This community is an absolute banger for me which help me pass the exam.
+
+I am from Technical Operation background and started learning AWS from last 2 months with Stephane Maarek Udemy course which help to gain knowledge of AWS service and its working fundamental. Stephane notes are one of the best thing which help to revise before the exam.
+
+For Practice Paper, I have done TD practice test which help to build confidence for exam. The exam are bit hard for me at first I am able get only 60%-70% only. 
+
+First I have done Section Based - then Topic based - Review mode and after that Timer and Final Test. Flash Cash and Cheat sheet of TD is must read which help to deep understanding of the service work.
+
+I have additional appied on Udemy for Stephane Maarek Practise set of 5. 
+
+*Exam Day*
+
+Before going to the exam I have read the notes of Stephane Maarek and Cheat Sheet of TD.
+
+I have received 2-5 questions on ML. (Sagemaker) and nearly 8 questions on (Disaster Recovery).
+
+Below are the topic which I have received in the exam.
+
+1. Disaster Recovery and Gobal Infrastructure.
+2. Fargate , Lambda and Serverless application 
+3. Storage - (Snowball Edge and Snowcone) For Snowball family make sure you select the snow service from storage based
+4. Database - (Aurora, Aurora Serverless, DynamoDB, Neptune)
+5. Migration and Application service
+6. AWS Security, Networking, Identity service 
+7. Management and Developer tool 
+8. Analytics and Billing
+9. Machine learning - Sagemaker
+
+I was informed that the result will be declared after 8hr.
+
+All the best!! Who has applied for the exam!",25,4,Open_Sale9528,2024-10-23 09:51:23,https://i.redd.it/agvkojc0ahwd1.png,False,False,False,False
+1ga13pu,Get 100% FREE AWS Practice exams with Answers for the following certs.,"🚀Elevate Your Career: Access FREE Practice Tests for the new AWS certifications with well explained answers Today! Don't miss out on this incredible opportunity to boost your skills and advance your career in the cloud computing industry. Start practicing now!
+
+1. [AWS Certified Data Engineer Associate (DEA-C01)](https://medium.com/@karani_ph/aws-certified-data-engineer-associate-dea-c01-practice-questions-answers-bcba4effcf98)
+
+2. [AWS certified AI practitioner (AIF-C01)](https://medium.com/@karani_ph/aws-certified-ai-practitioner-aif-c01-practice-question-set-with-answers-0319f1d4a8a6)
+
+3. [AWS certified machine leaning engineer associate. (MLA-C01)](https://medium.com/@karani_ph/aws-certified-machine-learning-engineer-associate-mla-c01-practice-questions-b820f0b670a4)",6,2,Just_Reaction_4469,2024-10-23 03:33:15,https://www.reddit.com/r/AWSCertifications/comments/1ga13pu/get_100_free_aws_practice_exams_with_answers_for/,False,False,False,False
+1ga5r2n,I failed CLF-C01 twice,"Hello, sadly I failed this exam, after all that depressed feeling, I'm feeling back again, but I don't know if my reviewer/exam sheet is updated, I took this exam last year, but I failed twice, this year I'm gonna try to retake again, do you have any updated reviewers/exam dumps that I could use? It means so much to me when you guys respond. Thank you",7,9,jeitamashii,2024-10-23 08:42:41,https://www.reddit.com/r/AWSCertifications/comments/1ga5r2n/i_failed_clfc01_twice/,False,False,False,False
+1gabxy5,What is the best method to take the AWS SAA C03 exam?,"Hey guys, I have been studying for my SAA C03 and now I am consistently scoring above 85% on my practice exams. I think I am ready to take the exam in a week or two. 
+
+I just looked up the exam options and torn between ""In person at a test center"" or ""Online with OnVUE"". I have a test center near my place but apparently they don't have any active dates when I go to select a date. Others are quite far away. Can someone please tell me which would be better? If I am going with the online option, I can do it at work where I have reliable high-speed Internet connectivity. If I am to take the exam at a test center, I will have to travel quite a few hours. (I know it is not a big deal to travel for a few hours but I really don't want to do it on the exam day with all the exam anxiety). Any input is appreciated. TIA.",5,13,kavee9,2024-10-23 14:29:44,https://www.reddit.com/r/AWSCertifications/comments/1gabxy5/what_is_the_best_method_to_take_the_aws_saa_c03/,False,False,False,False
+1gafbri,Is RDS Multi-AZ Standby Unnecessary?,"From what I understand, RDS Multi-AZ standby provides a failover mechanism where a standby instance automatically takes over when the primary fails. This setup uses synchronous replication for data consistency.
+
+On the other hand, RDS Read Replicas are primarily designed to improve read performance, but they can also be promoted to a primary instance. So, I’m wondering — why is there still a need for an RDS Multi-AZ standby? Wouldn’t using a read replica be sufficient for high availability, since it could serve as a failover and also boost read throughput?
+
+I’m currently studying for the AWS Certified Developer – Associate (DVA) exam and trying to get a better grasp on the use case for RDS Multi-AZ standby. Any insights would be appreciated!",4,1,RealScience464,2024-10-23 16:49:56,https://www.reddit.com/r/AWSCertifications/comments/1gafbri/is_rds_multiaz_standby_unnecessary/,False,False,False,False
+1ga0dbc,Stay at Home Dad questions!,I am a stay at home dad whose children are now school age and I am looking for a job. I have a BS in Software Engineering from 2015 with 6 years of experience working in a startup dealing with teaching camps about robotics where we created from scratch and programmed our own 3D printed Arduino controlled robots. I was laid off during Covid (2020) and became a stay at home dad while my wife worked in the healthcare industry. They I am about to take my CCP exam and was wondering if anyone had any advice on how to get back into the industry with a 4 year gap of experience? Was thinking about taking getting the SAA cert next. Which positions would these certs qualify me for without any actual industry experience? ,4,2,Capital-Iron-5792,2024-10-23 02:53:09,https://www.reddit.com/r/AWSCertifications/comments/1ga0dbc/stay_at_home_dad_questions/,False,False,False,False
+1g9r13f,AWS Certified AI Practitioner - PASSED!,"I took the exam yesterday, and found out this morning that I passed! I was anxious, as I did not get a PASS or FAIL when I finished the exam at the test center. I logged into the dashboard and saw 'Delivery Successful'. After researching a bit on Reddit, it said it was a good sign.
+
+I studied for 3 days straight (all day). I bought Stephane's course, reviewed the PDF before bed and had my own notes I created with ChatGPT (uploaded the exam guide and asked it to give me a study plan by domain). I also bought the TD's practice exam as well.
+
+I would say Stephane's course was about 80% of the exam. It's still a new exam so questions probably are changing as time goes by. I was surprised to see questions like 'what specific type of EC2 instance for AI/ML is environmentally friendly?' on there. Questions were heavy into BedRock, SageMaker, Model Tuning and the Responsible/Security/Capabilities of AI. 
+
+What's next? I have my CCP, just got the AIP and now studying for the SAA. 
+
+  
+**Tools for Success:**
+
+* Stephane Maarek's Udemy Course
+* Tutorial Dojo's Practice Exams
+* ChatGPT for creating a domain-specific study plan based on Exam Guide
+* FULLY READ THE QUESTION -- too much wordplay going on to trick you in answering incorrectly.",3,6,JohnniNeutron,2024-10-22 19:40:19,https://www.reddit.com/r/AWSCertifications/comments/1g9r13f/aws_certified_ai_practitioner_passed/,False,False,False,False
+1gahesk,A year later and I got it!! Passed the SAA-C03,,2,3,4keelo,2024-10-23 18:14:39,/r/AWSCertifications/comments/17tmeun/not_feeling_my_most_confident/,False,False,False,False
+1gah1x4,Passed SOA-C02 Today [SysOps Admin] - How much does SAA-C03 Overlap? ,"Hi all, passed my SysOps exam yesterday. Took about 3 weeks of dedicated study. I’m lucky because I got to study on the job so had the full working day for a good 3 weeks to go over Stephen’s course & do the Practice exams by TD.
+
+From studying Stephen’s course, I noticed a lot (~80%) of the videos were tagged with (SAA) on them alluding to the fact there is a LOT of overlap between the two. I want to know if anyone took this route & their experience with the amount of overlap or how the difficulty compares. How much more content does the SAA cover in comparison? 
+
+I understand from this sub, most people do the SAA first as a natural step up from CCP, but the route I’ve taken aligns more with my career goals. But, having heard/seen about the overlap if I can get the SAA done in a short time - I may aswell whilst my memory is still embedded with SOA content. 
+
+
+Was thinking to do a practice exam and then gage the new question style & what sort of content I need to brush up on when I get some time, just curious if anyone can provide some insight. Thanks :)",2,4,Traditional-Bat6867,2024-10-23 18:00:19,https://www.reddit.com/r/AWSCertifications/comments/1gah1x4/passed_soac02_today_sysops_admin_how_much_does/,False,False,False,False
+1gaf59m,Should I go for Solutions Architect - Professional certification ?,"Hey guys,  
+I recently took Developer - Associate. I finished it within 50 minutes and scored 992/1000. I have 3 years of experience as SDE and worked extensively on AWS. I am familiar with distributed systems and understand the trade-offs well. I love deep diving into large-scale cloud architectures.   
+Would it be good idea for me to take the Solutions Architect - Professional (SAP-C02) exam ? Does it add any value to my resume and help in getting calls from recruiters ?  
+  
+Thanks.   
+",2,5,Environmental-Car126,2024-10-23 16:42:42,https://www.reddit.com/r/AWSCertifications/comments/1gaf59m/should_i_go_for_solutions_architect_professional/,False,False,False,False
+1g9rofh,Which AWS certification should I pursue as a web developer?,"Hi, I finished my DVA-C02 exam on second try, all thanks to Stephane Maarek's Udemy course. I would like to know which certification I should pursue next, to advance my resume as a developer. I want to do Architect certification, but I am pretty sure it takes long time to complete. Initially, I wanted to pursue AWS Certified AI Practitioner (AIF-C01) after completing Developer Associate exam. I also did AI and Machine Learning courses in college. And there are a lot of similarities(AWS services) between the two certifications, so I thought it'd be easy for me to migrate to AWS AI Exam and I want to pursue something less time consuming (I am not sure if I should evaluate my decision like this). Is it advisable to do a Practitioner Cert after Associate Cert?, does it look good on my resume? Should I skip AI certification and pursue Solutions Architect or Data Engineer Certifications instead? Or should I pursue an Azure certification, to have more diverse background?",2,4,lucifer3229,2024-10-22 20:06:28,https://www.reddit.com/r/AWSCertifications/comments/1g9rofh/which_aws_certification_should_i_pursue_as_a_web/,False,False,False,False
+1gai096,SAP,Hey guys I’ve taken the SAP solutions architect professional. I have missed it by 2 questions twice and 3 questions once. I was wondering if anyone has any advice on how to get this finished?,1,7,TraditionalMail5743,2024-10-23 18:39:02,https://www.reddit.com/r/AWSCertifications/comments/1gai096/sap/,False,False,False,False
+1gahw97,Almost Completed SAA-C03 but Need Help with Project Ideas for My Resume,"I've almost completed SAA-C03 course in Udemy but unfortunately don't have the funds to write the AWS exam. However, to show that I have knowledge in AWS, I want to make projects to have in my resume. I’m looking for project suggestions that can showcase my AWS skills.",1,1,Certain-Mention-1453,2024-10-23 18:34:23,https://www.reddit.com/r/AWSCertifications/comments/1gahw97/almost_completed_saac03_but_need_help_with/,False,False,False,False
+1gahcdi,Which AWS certification is easier to complete? AWS Developer Associate or AWS Data Engineer Associate,"Hi everyone,
+
+I have an urgent requirement from my employer to complete one of the following AWS certifications within 2 weeks:
+
+* AWS Certified Developer – Associate
+* AWS Certified Data Engineer – Associate
+
+I’m wondering which one would be easier to complete for someone new to AWS? Any insights on the difficulty level, study resources, or exam prep would be greatly appreciated!
+
+Thanks in advance!",1,2,Then_Sundae_7645,2024-10-23 18:11:58,https://www.reddit.com/r/AWSCertifications/comments/1gahcdi/which_aws_certification_is_easier_to_complete_aws/,False,False,False,False
+1ga570g,SA pro vs Developer associate,"Hey all. I recently received my SAA cert and can't wait for the next one. I am torn between the options that are available. My end goal is to get as many certifications as possible. But I want to know if there is an optimal path here. I know SA pro will take a lot more experience and knowledge. Is it worth it to work on SA pro cert now or first clear the associate levels and then move to the pros?
+
+Please weigh in on your experience and decision-making on which path you did or would take.",1,0,DrZernov,2024-10-23 08:02:23,https://www.reddit.com/r/AWSCertifications/comments/1ga570g/sa_pro_vs_developer_associate/,False,False,False,False
+1ga3fvw,Does AWS certification make sense?,"Hi, I'm an Account graduate(no prior IT experience) working in a major auditing firm now and recently was offered training in AWS Practioner certification.
+I wanted to ask what kind of career prospects someone with AWS knowledge and certification can usually expect in the Accounts/Audit, IB or similar fields, if any.",1,9,wolfsbane__,2024-10-23 05:55:35,https://www.reddit.com/r/AWSCertifications/comments/1ga3fvw/does_aws_certification_make_sense/,False,False,False,False
